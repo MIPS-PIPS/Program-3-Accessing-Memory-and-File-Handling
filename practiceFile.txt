@@ -1,0 +1,6 @@
+This is a practice file. Use it to practice Assembly programming
+- open file
+- close file
+- you could even practice writing to this file
+
+This file will be used when testing your code submitted for Program 3. 
