@@ -31,3 +31,13 @@ Write a program in Assembly that takes in a programmer-defined filename (use [pr
 Write a program in Assembly that takes practiceFile.txt file and appends to it. Provide a screenshot of your practiceFile.txt after it has been edited. Answer the following prompt with your file append: "What have you enjoyed most about the class so far?"
 
 Bonus: file name and content is taken from user input
+
+### <ins>Bonus Task</ins>
+Write a program in Assembly that takes creates a file and writes to it (please use .txt files). Include the output screenshot and .txt file in your submission. 
+
+Ideas for things to include:
+
+- get file name and content from user input
+- use macros
+- have a menu
+- error handling
