@@ -1,3 +1,10 @@
+# CS 2640
+# 11/23/2024
+# Program 3 Accessing Memory and File Handling
+# Brandon Tseng, Michael Wu, Jonathan Dang
+
+
+
 .data
 file_name:      .asciiz "practiceFile.txt"    # Name of the file to append to
 prompt: .asciiz "What have you enjoyed most about the class so far? "
