@@ -33,7 +33,7 @@ Write a program in Assembly that takes practiceFile.txt file and appends to it. 
 Bonus: file name and content is taken from user input
 
 ### <ins>Bonus Task</ins>
-Write a program in Assembly that takes creates a file and writes to it (please use .txt files). Include the output screenshot and .txt file in your submission. 
+Write a program in Assembly that creates a file and writes to it (please use .txt files). Include the output screenshot and .txt file in your submission. 
 
 Ideas for things to include:
 
